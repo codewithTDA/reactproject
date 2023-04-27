@@ -1,0 +1,16 @@
+.container{
+    /* width: 30vw; */
+    height: 30vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 55px;
+    background-color: black;
+    color: white;
+    
+}
+/* .c{
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 488px;
+} */

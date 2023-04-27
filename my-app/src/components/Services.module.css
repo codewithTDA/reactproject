@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  background: black;
+  height: 60vh;
+
+}
+
+.heading{
+  display: flex;
+justify-content: center;
+  color: white;
+  width: 60vw;
+  padding-top: 10vh;
+  /* margin-top: 65vh; */
+  font-size: 2.6rem;
+  line-height: 40px;
+}
+.lower{
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10vh;
+  letter-spacing: 1px;
+
+  
+}

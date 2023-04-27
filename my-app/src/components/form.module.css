@@ -1,0 +1,44 @@
+.container{
+    height: 90vh;
+    /* background-color: black; */
+}
+.headc{
+         
+           display: flex;
+justify-content: center;
+
+}
+.head{
+           font-size: 50px;
+           line-height: 50px;
+           width: 70vw;
+           margin-top: 5vh;
+           font: 900;
+}
+.formContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:34px 34px;
+   
+
+}
+.form{
+    display: flex;
+flex-direction: column;
+position: relative;
+width: 50vw;
+}
+.submit{
+ position: absolute;
+ right: 0px;
+margin-top: 13px;
+padding: 2px 12px;
+background-color: rgb(84, 84, 194);
+/* outline: none; */
+border: none;
+color: white;
+}
+.input{
+    width: 50vw;
+}
